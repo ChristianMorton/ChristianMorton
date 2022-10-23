@@ -20,7 +20,7 @@
 
 ## 👀 I'm currently looking for
 
-A software development apprenticeship level 4 or above.
+A software engineer apprenticeship level 4 or above.
 
 ## 🚀 Some languages and tools I have used in the past
 <div>
