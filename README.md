@@ -18,10 +18,6 @@
 }
 ```
 
-## 👀 I'm currently looking for
-
-A software engineer apprenticeship level 4 or above.
-
 ## 🚀 Some languages and tools I have used in the past
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>
