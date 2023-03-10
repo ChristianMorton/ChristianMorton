@@ -8,15 +8,21 @@
     "location":"England",
     "education":["Self taught programmer", "A-Levels"],
     "past jobs":["Freelance web developer The Chedington Estate", "Freelance web developer The Guy Foundation"],
+    "current position":["Apprentice full stack developer working with .NET and javascript"],
     "past projects":["Social app startup using React Native", "Unreal Engine Game"],
     "professional interests":["Data Science", "Machine Learning", "Game Development", "Physics"],
     
-    "currently learning":["Machine Learning", "Discord Bots in JS"],
-    "2022/3 Goals":["Secure an apprenticeship to formalise my education and work professionally.", 
-    "Start working on more of my own projects again"],
+    "currently learning":["Machine Learning", "React and AWS frameworks (amplify)"],
+    "2022/3 Goals":["Start working on more of my own projects"],
     "hobbies":["Music production", "Gaming", "Gym", "Theatre"]
 }
 ```
+
+## Current project:
+
+Working on a gratitude website that allows people to post what they're grateful for and have it come up as a sort of 'map'? 
+
+Check it out: [Sunshine Project](https://sunshine.christianmorton.com)
 
 ## 🚀 Some languages and tools I have used in the past
 <div>
