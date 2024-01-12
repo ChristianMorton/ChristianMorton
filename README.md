@@ -2,7 +2,7 @@
 
 ```json
 {
-    "name":"Chris Morton",
+    "name":"Christian Morton",
     "location":"England",
     "education":["Self taught programmer", "A-Levels"],
     "past jobs":["Full stack developer working with TS, Vue.js, AWS, .Net",
