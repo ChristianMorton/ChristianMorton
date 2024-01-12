@@ -7,8 +7,11 @@
     "name":"Chris Morton",
     "location":"England",
     "education":["Self taught programmer", "A-Levels"],
-    "past jobs":["Freelance web developer The Chedington Estate", "Freelance web developer The Guy Foundation"],
-    "current position":["Apprentice full stack developer working with .NET and javascript"],
+    "past jobs":["Full stack developer working with TS, Vue.js, AWS, .Net",
+                "Apprentice full stack developer working with .NET and javascript",
+                "Freelance web developer The Chedington Estate",
+                "Freelance web developer The Guy Foundation"],
+    "current position":[],
     "past projects":["Social app startup using React Native", "Unreal Engine Game"],
     "professional interests":["Data Science", "Machine Learning", "Game Development", "Physics"],
     
