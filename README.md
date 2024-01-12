@@ -15,8 +15,8 @@
     "past projects":["Social app startup using React Native", "Unreal Engine Game"],
     "professional interests":["Data Science", "Machine Learning", "Game Development", "Physics"],
     
-    "currently learning":["Machine Learning", "React and AWS frameworks (amplify)"],
-    "2022/3 Goals":["Start working on more of my own projects"],
+    "currently learning":["Django", "Discord bots using discord.py"],
+    "2024 Goals":["Start working on more of my own projects", "Find a job in an industry I am interested in"],
     "hobbies":["Music production", "Gaming", "Gym", "Theatre"]
 }
 ```
